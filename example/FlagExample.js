@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { ScrollView, Picker, View, StyleSheet } from 'react-native';
 import Flag from 'react-native-flags';
-import * as allFlags from 'react-native-flags/flags/flat/16';
+import * as allFlags from 'react-native-flags/flags/flat/64';
 
 const FlagExample = () => {
   return (
